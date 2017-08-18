@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "Tutorial placeholder mod.",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JTL"],
+  "credits": "Harry",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

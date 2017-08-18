@@ -1,0 +1,15 @@
+item.tutorial_ingot.name=Tutorial Ingot
+tile.tutorial_ore.name=Tutorial Ore
+itemGroup.tutorialtab=Tutorial Mod
+item.tutorial_pickaxe.name=Tutorial Pickaxe
+item.tutorial_axe.name=Tutorial Axe
+item.tutorial_hoe.name=Tutorial Hoe
+item.tutorial_shovel.name=Tutorial Shovel
+item.tutorial_sword.name=Tutorial Sword
+item.tutorial_helmet.name=Tutorial Helmet
+item.tutorial_chestplate.name=Tutorial Chestplate
+item.tutorial_leggins.name=Tutorial Leggins
+item.tutorial_boots.name=Tutorial Boots
+item.test_snowball.name=Test Snowball
+tile.tutorial_block.name=Tutorial Block
+tile.tutorial_stairs.name=Tutorial Stairs
